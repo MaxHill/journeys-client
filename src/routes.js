@@ -1,15 +1,10 @@
 import NotFound from './views/NotFound';
-import Home from './views/Home';
-import Hello from './views/Hello';
+import Feed from './views/Feed';
 
 export default [
     {
         path: '/',
-        component: Home
-    },
-    {
-        path: '/hello',
-        component: Hello
+        component: Feed
     },
     {
         path: '*',

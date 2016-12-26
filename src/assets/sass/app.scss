@@ -1,6 +1,6 @@
 // Reset / Normalize
 // Uncomment below line if not using bootstrap.
-// @import 'base/reset';
+@import 'base/reset';
 
 // Base
 @import 'base/variables';
@@ -8,5 +8,4 @@
 @import 'base/typography';
 
 // Components
-@import 'components/hero';
-@import 'components/welcome';
+// @import 'components/hero';
