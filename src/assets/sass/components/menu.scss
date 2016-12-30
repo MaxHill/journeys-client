@@ -1,0 +1,15 @@
+.Menu {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #e5e5e5;
+    padding: .5rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__icon {
+        width: 2rem;
+        height: 2rem;
+    }
+}

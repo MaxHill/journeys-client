@@ -1,6 +1,8 @@
 <template>
-    <nav>
-        Create
+    <nav class="Menu">
+        <svg class="Menu__icon">
+            <use xlink:href='#add'>
+        </svg>
     </nav>
 </template>
 
